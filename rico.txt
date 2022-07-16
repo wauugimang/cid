@@ -1,0 +1,6 @@
+Version=3.93
+Account=kontolodon
+Password=memeklodon1*
+Gmail=ikiisnskskejbiw
+START_ACC=1
+START_GMAIL=1
